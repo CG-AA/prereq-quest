@@ -1,11 +1,33 @@
 # The Quest
 
+## The spirit of this
+
+## 這份問卷的精神
+
+This is a survey, not a test. It exists so we can understand how you
+actually do things. So:
+
+這是一份問卷，不是考試。它的目的是讓我們了解你平常實際上是怎麼做事
+的。所以：
+
+- **Do it the way you'd normally do it.** Same tools, same habits, same
+  shortcuts.
+  **照你平常的方式來做。** 一樣的工具、一樣的習慣、一樣的捷徑。
+- **Don't put extra effort into this.** Don't study for it, don't polish
+  it, and don't grind through a mission you can't crack.
+  **不要為此多花額外的力氣。** 不用為它預習，不用把它打磨得很漂亮，
+  也不要硬啃一個做不出來的任務。
+- **Every answer is welcome.** "I don't know" and "I gave up here" are
+  perfectly good answers, and they tell us more than a copied solution.
+  **每一種回答都歡迎。** 「我不知道」和「我在這裡放棄了」都是很好的
+  回答，而且比抄來的解答更能告訴我們事情。
+
 Welcome. This repository is a small diagnostic, not an exam. It exists so
-you and your instructor can see what you're already comfortable with, and
+you and your TA can see what you're already comfortable with, and
 what's worth practicing before the term gets going.
 
 歡迎。這個 repository 是一個小型的診斷，不是考試。它的目的是讓你和
-你的老師看見你已經熟悉哪些東西、哪些值得在學期開始前先練習。
+你的助教看見你已經熟悉哪些東西、哪些值得在學期開始前先練習。
 
 There is no single score at the end. Instead, GitHub Actions will build a
 capability profile from what you actually did — separate from anything
@@ -51,14 +73,23 @@ whatever you'd normally use to figure it out.
 
 ## 如果你卡住了
 
-Give it about 30 focused minutes with your usual resources first —
+Give it about 10 focused minutes with your usual resources first —
 error messages, search, docs, an LLM, a classmate. If you're still
-stuck after that, **message your instructor directly** and describe
+stuck after that, **message your TA directly** and describe
 what you were trying to do, what you ran, and what happened instead.
 
-先用你平常的資源專注試個 30 分鐘左右：錯誤訊息、搜尋、文件、LLM、
-同學。如果之後還是卡住，**直接私訊你的老師**，描述你想做什麼、你
+先用你平常的資源專注試個 10 分鐘左右：錯誤訊息、搜尋、文件、LLM、
+同學。如果之後還是卡住，**直接私訊你的助教**，描述你想做什麼、你
 執行了什麼，以及實際發生了什麼。
+
+Whatever happens, don't sink more than about **90 minutes** total into
+this quest. If you find yourself struggling, or you've passed that
+mark, **report back to the TA before trying any further.** You are not
+expected to finish everything.
+
+不管怎樣，整個任務加起來不要花超過 **90 分鐘**。如果你發現自己很吃力，
+或是已經超過這個時間，**請先回報給助教，再決定要不要繼續嘗試。** 我們
+並不期待你把所有東西都做完。
 
 Getting stuck is data, not a penalty. Where a cohort gets stuck is
 exactly what this diagnostic is for, and a clear description of a wall
