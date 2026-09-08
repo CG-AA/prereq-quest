@@ -23,11 +23,11 @@ actually do things. So:
   回答，而且比抄來的解答更能告訴我們事情。
 
 Welcome. This repository is a small diagnostic, not an exam. It exists so
-you and your instructor can see what you're already comfortable with, and
+you and your TA can see what you're already comfortable with, and
 what's worth practicing before the term gets going.
 
 歡迎。這個 repository 是一個小型的診斷，不是考試。它的目的是讓你和
-你的老師看見你已經熟悉哪些東西、哪些值得在學期開始前先練習。
+你的助教看見你已經熟悉哪些東西、哪些值得在學期開始前先練習。
 
 There is no single score at the end. Instead, GitHub Actions will build a
 capability profile from what you actually did — separate from anything
@@ -75,11 +75,11 @@ whatever you'd normally use to figure it out.
 
 Give it about 10 focused minutes with your usual resources first —
 error messages, search, docs, an LLM, a classmate. If you're still
-stuck after that, **message your instructor directly** and describe
+stuck after that, **message your TA directly** and describe
 what you were trying to do, what you ran, and what happened instead.
 
 先用你平常的資源專注試個 10 分鐘左右：錯誤訊息、搜尋、文件、LLM、
-同學。如果之後還是卡住，**直接私訊你的老師**，描述你想做什麼、你
+同學。如果之後還是卡住，**直接私訊你的助教**，描述你想做什麼、你
 執行了什麼，以及實際發生了什麼。
 
 Whatever happens, don't sink more than about **90 minutes** total into
